@@ -13,7 +13,7 @@ Html,
 CSS,
 Javascript
 
-[Live Demo](https://Victoria129.github.io/about-page)
+[LIVE DEMO](https://victoria129.github.io/capstone-project/)
 
 Authors
 👤 Victoria Tumwebaze
@@ -33,7 +33,7 @@ Please you can assist [Cindy Shin](https://creativecommons.org/licenses/by-nc/4.
 Acknowledgments
 Original design by: https://www.behance.net/adagio07
 License
-This project is [MIT](https://github.com/Daniel-Kigozi/Mobile-First/blob/my-html/LICENSE.md)licensed.
+This project is [MIT](https://github.com/Victoria129/capstone-project/blob/main/LICENSE)licensed.
 Repositories
 57
 Followers
