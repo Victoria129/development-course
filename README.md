@@ -15,6 +15,8 @@ Javascript
 
 [LIVE DEMO](https://victoria129.github.io/capstone-project/)
 
+[Video about the project](https://www.loom.com/share/4fc39f842ea54c41a7f1aab59b1b66ec)
+
 Authors
 👤 Victoria Tumwebaze
 -GitHub: [Victoria Tumwebaze](https://github.com/Victoria129)
